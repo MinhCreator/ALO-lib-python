@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "ALO_lib"
 version = "1.0.1"
 authors = [
-  { name="MinhCreator VN", email="buivonhatminhqwer@gmail.com" },
+  { name="MinhCreatorVN", email="buivonhatminhqwer@gmail.com" },
 ]
 description = "All in one function you need"
 readme = "README.md"
