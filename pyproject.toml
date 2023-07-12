@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/MinhCreator/ALO-lib"
-"Bug Tracker" = "https://github.com/MinhCreator/ALO-lib/issues"
+"Homepage" = "https://github.com/MinhCreator/ALO-lib-python"
+"Bug Tracker" = "https://github.com/MinhCreator/ALO-lib-python/issues"
