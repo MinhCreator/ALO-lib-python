@@ -84,7 +84,7 @@ def remove_duplicate(nums: list[int]) -> int:
     return store + 1 
 
 # xóa element được chỉ định trong list
-def remove_ele( nums: list[int], val: int) -> int:
+def remove_ele(nums: list[int], val: int) -> int:
 
     # var để theo dõi số lượng phần tử không bằng  val
     k = 0
