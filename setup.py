@@ -16,7 +16,7 @@ setuptools.setup(
     license='MIT License',
     packages=["ALO_func"],
     url="https://github.com/MinhCreator/ALO-lib",
-    python_requires = ">=3.10",
+    python_requires = ">=3.9",
     zip_safe = False,
     install_requires=[],
     classifiers=[
