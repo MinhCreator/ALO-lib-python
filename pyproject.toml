@@ -11,7 +11,7 @@ authors = [
 description = "All in one function you need"
 readme = "README.md"
 python_requires = ">=3.9"
-zip_safe = False
+zip_safe = false
 install_requires=[]
 classifiers = [
     "Programming Language :: Python :: 3",
